@@ -32,5 +32,9 @@
 
 * https://asad-khilji.github.io/Password-Generator-Code/
 
+## Screenshot
+
+![screenshot.png](https://github.com/asad-khilji/Password-Generator-Code/blob/main/images/screenshot.png)
+
 ## Contribution
 Made with ❤️ By Asad Khilji
